@@ -4,14 +4,14 @@ Bu repo, iki temel zaman hesaplama aracını içermektedir: Epoch zaman farkı h
 
 ## İçindekiler
 1. [Epoch Zaman Farkı Hesaplama](#epoch-zaman-farkı-hesaplama)
-2. [Günlük Mesai Saatleri Takibi](#günlük-mesai-saatleri-takibi)
+2. [Mesai Saati Hesaplama](#mesai-saati-hesaplama)
 3. [Kurulum](#kurulum)
 
 ## Epoch Zaman Farkı Hesaplama
 
 Epoch zaman farkı hesaplama aracı, iki tarih ve saat arasındaki farkı epoch zamanı (saniye cinsinden) kullanarak hesaplar.
 
-## Günlük Mesai Saatleri Takibi
+## Mesai Saati Hesaplama
 
 Günlük mesai saatleri takibi aracı, çalışanların mesai başlangıç ve bitiş saatlerini girerek günlük toplam mesai sürelerini hesaplar.
 
